@@ -1,7 +1,8 @@
 # INSTACART-PYTHON
 A data analysis project using PYTHON to analyze data from an online Grocery Basket, Instacart.
 ## OBJECTIVES
-![instacart logo]()
+![instacart logo](https://github.com/sonalsinghal21/Python_Instacart/blob/main/instacart-logo.jpg)
+
 Clean and merge four data sets: orders, products, department, and customer data.
 
 Analyze the data to answer questions from marketing and sales teams (for example, busiest time of day,highest grossing days of the week, most loyal customers, etc.).
