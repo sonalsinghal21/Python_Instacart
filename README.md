@@ -12,7 +12,9 @@ Create customer profiles based on combinations of variables and analyze how thei
 ## TOOLS
 Language: Python
 
-Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
+Libraries: Pandas-for data analysis,
+Seaborn-for visualization, Matplotlib,
+ Numpy and Scipy
 
 Software: Jupyter Notebooks and Excel
 ## SKILLS DEMONSTRATED,
